@@ -4,7 +4,7 @@
 Team ID : PNT2022TMID08565
 
 Team members:
-- Nivetha s
+- Nivetha S
 - Priyadharshini K
 - Varadharaj S
 - Vishnu Vardhan S S
